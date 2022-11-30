@@ -18,4 +18,4 @@ The Ocala Newsletter (Responsive Web Design for Mobile Viewport) | Tutorial by Z
 
 ## See it live!
 
-    Navigate [here[](https://<YOUR-GITHUB-USERNAME>.github.io/ocala-newsletter) to see it live!
+    Navigate [here[](https://sierra58.github.io/ocala-newsletter) to see it live!
