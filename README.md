@@ -1,21 +1,8 @@
 # the-ocala-newsletter
-The Ocala Newsletter (Responsive Web Design for Mobile Viewport) | Tutorial by Zer To Code | [html, css, front-end web development, tutorial]
 
-## Local testing
+## The Ocala Newsletter
+- Tutorial by Zer To Code
+- Responsive Web Design for Mobile Viewport
 
-   From the root directory, run the following command:
-        python -m http.server
-
-   The page should now be available at `http:localhost:8000`
-
-
-## Technologies used
-
-    * HTML5
-    * CSS Flexbox modul
-    * Python for a local HTTP server
-    * GitHub Pages for Deployment
-
-## See it live!
-
-    Navigate [here[](https://sierra58.github.io/ocala-newsletter) to see it live!
+## Tags
+html, css, front-end web development, tutorial, flexbox
